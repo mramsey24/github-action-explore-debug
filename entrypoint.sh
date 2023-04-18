@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 echo "Debug information:"
 IFS=$'\n'
 for v in $(env); do
